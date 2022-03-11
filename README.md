@@ -22,4 +22,4 @@ You need to install:
 To run this project, enter in /tests/ directory and use in your terminal:
 
 * `cucumber`
-* `cucumber -t @CenarioCompleto`
+* `cucumber -t @add_check`
