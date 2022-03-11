@@ -1,0 +1,5 @@
+---
+
+default: --profile pretty -p html
+pretty: --format pretty
+html: --format html --out=features\data\report\relatorio.html
